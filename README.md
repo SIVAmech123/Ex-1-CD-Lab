@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/4cf552c5-e689-4f7b-affd-c4245d470d43)# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number :212223230209
 # Date : 14.04.2025
 # AIM :
-## To write a C program to implement a symbol table.
+  To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
 2.	Get the input from the user with the terminating symbol ‘$’.
