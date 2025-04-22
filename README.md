@@ -89,8 +89,9 @@ int main() {
 
 # OUTPUT
 
-![Screenshot 2025-04-15 102209](https://github.com/user-attachments/assets/c38bd313-de80-4912-96dd-0eb4fbcfbeca)
-![Screenshot 2025-04-15 102217](https://github.com/user-attachments/assets/5b7e22f7-3827-42aa-83bb-688fbf4ad754)
+
+![image](https://github.com/user-attachments/assets/258c92c4-9691-43f9-95de-eca141157c2a)
+
 
 
 # RESULT
